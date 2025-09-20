@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo:aphea-site/Aphea
+  repo: aphea-site/Aphea
   branch: main
  
   
